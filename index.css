@@ -37,3 +37,51 @@ header {
     padding: 20px;
     margin-top: 75px
   }
+
+  .home {
+    display: block;
+  }
+
+ .math {
+    display: none;
+  }
+
+ .sci {
+    display: none;
+  }
+
+ .eng {
+    display: none;
+  }
+
+ .ran {
+    display: none;
+  }
+
+ .fun {
+    display: none;
+  }
+
+.homevalid {
+    display: none;
+}
+
+.mathvalid {
+    display: block;
+}
+
+.scivalid {
+    display: block;
+}
+
+.engvalid {
+    display: block;
+}
+
+.ranvalid {
+    display: block;
+}
+
+.funvalid {
+    display: block;
+}
