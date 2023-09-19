@@ -17,7 +17,8 @@ header {
 
   button:hover {
     background: rgb(200, 200, 200);
-    color: black
+    color: black;
+    cursor: pointer;
   }
 
   body {
@@ -33,9 +34,9 @@ header {
     width: 70%;
     padding: 10px;
     margin-top: 0px;
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 15px;
     padding: 20px;
-    margin-top: 75px
+    margin-top: 55px
   }
 
   .home {
