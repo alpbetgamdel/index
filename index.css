@@ -86,3 +86,7 @@ header {
 .funvalid {
     display: block;
 }
+
+p {
+    font-size: 14pt; font-family: 'comme'
+}
